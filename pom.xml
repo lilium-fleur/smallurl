@@ -10,7 +10,6 @@
 
 
   <name>smallurl Maven Webapp</name>
-  <urlEntity>http://maven.apache.org</urlEntity>
 
 
   <dependencies>
